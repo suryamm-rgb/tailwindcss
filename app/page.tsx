@@ -12,6 +12,8 @@ const routes = [
   { name: "Flex", path: "/flex" },
   { name: "Tailwind Css Flex", path: "flex-tailwind-css" },
   { name: "Align Item", path: "/align" },
+  { name: "Padding", path: "/padding" },
+  { name: "margin", path: "/margin" },
 ];
 
 export default function Home() {
